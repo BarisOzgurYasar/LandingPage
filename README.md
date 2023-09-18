@@ -1,1 +1,1 @@
-[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
+Landing page for personel use
