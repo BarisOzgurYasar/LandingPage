@@ -1,0 +1,59 @@
+/* Text*/
+
+.textCenter {
+  text-align: center;
+}
+.headingSmall {
+  font-size: 1.25rem;
+}
+.headingMedium {
+  font-size: 1.5rem;
+}
+.headingLarge {
+  font-size: 1.75rem;
+}
+
+/* Colors  */
+
+.bgDarkBlue {
+  background: #062e51;
+}
+.bgLightBlue {
+  background: #336ea2;
+}
+
+/* Buttons */
+.btn {
+  margin-top: 1.5rem;
+  background: #336ea2;
+  padding: 0.3rem 2rem;
+  border: 2px solid #062e51;
+  border-radius: 10px;
+  letter-spacing: 0.5px;
+}
+.btnPrimary {
+  background: #336ea2;
+}
+.btnPrimary:hover {
+  color: #062e51;
+  background: #fff;
+  border: 2px solid #062e51;
+}
+.btnDark {
+  background: #333;
+}
+.btnDark:hover {
+  color: #333;
+  background: #fff;
+  border: 2px solid #333;
+}
+.btnBlock {
+  width: 100%;
+  text-align: center;
+}
+
+/* Container */
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
